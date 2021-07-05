@@ -1,0 +1,4 @@
+.eslintrc.js
+dist/*
+apps/client
+apps/gameserver/webpack.config.js

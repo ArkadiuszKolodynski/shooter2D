@@ -1,0 +1,2953 @@
+{
+  "frames": {
+    "bullet.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 11
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 11
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 11
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_pistol_07.png": {
+      "frame": {
+        "x": 25,
+        "y": 0,
+        "w": 104.5,
+        "h": 76
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 19.5,
+        "w": 104.5,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 126.5,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_pistol_10.png": {
+      "frame": {
+        "x": 129.5,
+        "y": 0,
+        "w": 104.5,
+        "h": 76
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 19,
+        "w": 104.5,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 126.5,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_pistol_11.png": {
+      "frame": {
+        "x": 234,
+        "y": 0,
+        "w": 104.5,
+        "h": 76
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 19,
+        "w": 104.5,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 126.5,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_pistol_05.png": {
+      "frame": {
+        "x": 338.5,
+        "y": 0,
+        "w": 104.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 19.5,
+        "w": 104.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 126.5,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_pistol_06.png": {
+      "frame": {
+        "x": 443,
+        "y": 0,
+        "w": 104.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 19.5,
+        "w": 104.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 126.5,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_pistol_08.png": {
+      "frame": {
+        "x": 547.5,
+        "y": 0,
+        "w": 104.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 19,
+        "w": 104.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 126.5,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_pistol_09.png": {
+      "frame": {
+        "x": 652,
+        "y": 0,
+        "w": 104.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 19,
+        "w": 104.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 126.5,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_rifle_01.png": {
+      "frame": {
+        "x": 756.5,
+        "y": 0,
+        "w": 129.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 18.5,
+        "w": 129.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_rifle_02.png": {
+      "frame": {
+        "x": 886,
+        "y": 0,
+        "w": 129.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 18.5,
+        "w": 129.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_rifle_04.png": {
+      "frame": {
+        "x": 0,
+        "y": 76,
+        "w": 129,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 18,
+        "w": 129,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_rifle_05.png": {
+      "frame": {
+        "x": 129,
+        "y": 76,
+        "w": 129.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 18,
+        "w": 129.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_rifle_06.png": {
+      "frame": {
+        "x": 258.5,
+        "y": 76.5,
+        "w": 129,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 18,
+        "w": 129,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_rifle_07.png": {
+      "frame": {
+        "x": 387.5,
+        "y": 76.5,
+        "w": 128.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 18,
+        "w": 128.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_rifle_09.png": {
+      "frame": {
+        "x": 516,
+        "y": 76.5,
+        "w": 128.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 17.5,
+        "w": 128.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_rifle_10.png": {
+      "frame": {
+        "x": 644.5,
+        "y": 76.5,
+        "w": 128.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 17.5,
+        "w": 128.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_rifle_11.png": {
+      "frame": {
+        "x": 773,
+        "y": 76.5,
+        "w": 128.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 17.5,
+        "w": 128.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_pistol_01.png": {
+      "frame": {
+        "x": 901.5,
+        "y": 76.5,
+        "w": 105,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 20,
+        "w": 105,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 126.5,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_rifle_01.png": {
+      "frame": {
+        "x": 0,
+        "y": 152.5,
+        "w": 129.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 18,
+        "w": 129.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_rifle_03.png": {
+      "frame": {
+        "x": 129.5,
+        "y": 152.5,
+        "w": 129,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 18,
+        "w": 129,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_rifle_02.png": {
+      "frame": {
+        "x": 258.5,
+        "y": 153,
+        "w": 129.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 18,
+        "w": 129.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_rifle_04.png": {
+      "frame": {
+        "x": 388,
+        "y": 153,
+        "w": 129,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 17.5,
+        "w": 129,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_rifle_05.png": {
+      "frame": {
+        "x": 517,
+        "y": 153,
+        "w": 129,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 17.5,
+        "w": 129,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_rifle_06.png": {
+      "frame": {
+        "x": 646,
+        "y": 153,
+        "w": 129,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 17.5,
+        "w": 129,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_shoot_rifle_02.png": {
+      "frame": {
+        "x": 775,
+        "y": 153,
+        "w": 126.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 18,
+        "w": 126.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_pistol_02.png": {
+      "frame": {
+        "x": 901.5,
+        "y": 153.5,
+        "w": 105,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 20,
+        "w": 105,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 126.5,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_rifle_01.png": {
+      "frame": {
+        "x": 0,
+        "y": 229,
+        "w": 129.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20.5,
+        "y": 19,
+        "w": 129.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 161,
+        "h": 108.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_shoot_rifle_03.png": {
+      "frame": {
+        "x": 129.5,
+        "y": 229,
+        "w": 127.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 18,
+        "w": 127.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_rifle_20.png": {
+      "frame": {
+        "x": 257,
+        "y": 229.5,
+        "w": 129.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20.5,
+        "y": 19,
+        "w": 129.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 161,
+        "h": 108.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_shoot_rifle_01.png": {
+      "frame": {
+        "x": 386.5,
+        "y": 229.5,
+        "w": 129.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 18,
+        "w": 129.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_pistol_03.png": {
+      "frame": {
+        "x": 516,
+        "y": 229.5,
+        "w": 105,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 19.5,
+        "w": 105,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 126.5,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_pistol_04.png": {
+      "frame": {
+        "x": 621,
+        "y": 229.5,
+        "w": 104.5,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 19.5,
+        "w": 104.5,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 126.5,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_rifle_03.png": {
+      "frame": {
+        "x": 725.5,
+        "y": 229.5,
+        "w": 129.5,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 18,
+        "w": 129.5,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_rifle_08.png": {
+      "frame": {
+        "x": 855,
+        "y": 230.5,
+        "w": 129,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 17.5,
+        "w": 129,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_pistol_01.png": {
+      "frame": {
+        "x": 0,
+        "y": 305.5,
+        "w": 105,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 19.5,
+        "w": 105,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 129,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_pistol_02.png": {
+      "frame": {
+        "x": 105,
+        "y": 305.5,
+        "w": 105,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 19.5,
+        "w": 105,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 129,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_pistol_03.png": {
+      "frame": {
+        "x": 210,
+        "y": 306,
+        "w": 105,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 19.5,
+        "w": 105,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 129,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_pistol_04.png": {
+      "frame": {
+        "x": 315,
+        "y": 306,
+        "w": 105,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18.5,
+        "y": 20,
+        "w": 105,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 129,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_rifle_07.png": {
+      "frame": {
+        "x": 420,
+        "y": 306.5,
+        "w": 128.5,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 17,
+        "w": 128.5,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_rifle_08.png": {
+      "frame": {
+        "x": 548.5,
+        "y": 306.5,
+        "w": 128.5,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 17,
+        "w": 128.5,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_rifle_09.png": {
+      "frame": {
+        "x": 677,
+        "y": 306.5,
+        "w": 128,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 17,
+        "w": 128,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_rifle_10.png": {
+      "frame": {
+        "x": 805,
+        "y": 307.5,
+        "w": 128.5,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15.5,
+        "y": 17,
+        "w": 128.5,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_shoot_pistol_02.png": {
+      "frame": {
+        "x": 933.5,
+        "y": 307.5,
+        "w": 100,
+        "h": 77
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 19.5,
+        "w": 100,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 127.5,
+        "h": 107.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_pistol_01.png": {
+      "frame": {
+        "x": 0,
+        "y": 382.5,
+        "w": 105,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18.5,
+        "y": 19.5,
+        "w": 105,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 115
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_pistol_14.png": {
+      "frame": {
+        "x": 105,
+        "y": 382.5,
+        "w": 105,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18.5,
+        "y": 19.5,
+        "w": 105,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 115
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_pistol_15.png": {
+      "frame": {
+        "x": 210,
+        "y": 383,
+        "w": 104.5,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18.5,
+        "y": 19.5,
+        "w": 104.5,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 115
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_shoot_pistol_01.png": {
+      "frame": {
+        "x": 314.5,
+        "y": 383,
+        "w": 105,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 19.5,
+        "w": 105,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 127.5,
+        "h": 107.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_rifle_02.png": {
+      "frame": {
+        "x": 419.5,
+        "y": 383.5,
+        "w": 130,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 19,
+        "w": 130,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 161,
+        "h": 108.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_rifle_19.png": {
+      "frame": {
+        "x": 549.5,
+        "y": 383.5,
+        "w": 129.5,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 19,
+        "w": 129.5,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 161,
+        "h": 108.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_shoot_pistol_03.png": {
+      "frame": {
+        "x": 679,
+        "y": 383.5,
+        "w": 102.5,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 19.5,
+        "w": 102.5,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 127.5,
+        "h": 107.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_pistol_05.png": {
+      "frame": {
+        "x": 781.5,
+        "y": 384.5,
+        "w": 105,
+        "h": 77.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18.5,
+        "y": 20,
+        "w": 105,
+        "h": 77.5
+      },
+      "sourceSize": {
+        "w": 129,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_pistol_07.png": {
+      "frame": {
+        "x": 886.5,
+        "y": 407.5,
+        "w": 105.5,
+        "h": 77.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 20.5,
+        "w": 105.5,
+        "h": 77.5
+      },
+      "sourceSize": {
+        "w": 129,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_rifle_11.png": {
+      "frame": {
+        "x": 0,
+        "y": 459.5,
+        "w": 128,
+        "h": 77.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15.5,
+        "y": 16.5,
+        "w": 128,
+        "h": 77.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_pistol_02.png": {
+      "frame": {
+        "x": 128,
+        "y": 460,
+        "w": 105,
+        "h": 77.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18.5,
+        "y": 19.5,
+        "w": 105,
+        "h": 77.5
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 115
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_pistol_06.png": {
+      "frame": {
+        "x": 233,
+        "y": 460,
+        "w": 105.5,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 20,
+        "w": 105.5,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 129,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_pistol_08.png": {
+      "frame": {
+        "x": 338.5,
+        "y": 460.5,
+        "w": 106,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 20.5,
+        "w": 106,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 129,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_pistol_09.png": {
+      "frame": {
+        "x": 444.5,
+        "y": 460.5,
+        "w": 106,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 21,
+        "w": 106,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 129,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_pistol_10.png": {
+      "frame": {
+        "x": 550.5,
+        "y": 460.5,
+        "w": 106,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 21,
+        "w": 106,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 129,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_pistol_03.png": {
+      "frame": {
+        "x": 656.5,
+        "y": 460.5,
+        "w": 105,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18.5,
+        "y": 20,
+        "w": 105,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 115
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_pistol_11.png": {
+      "frame": {
+        "x": 761.5,
+        "y": 462,
+        "w": 106,
+        "h": 78.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 21,
+        "w": 106,
+        "h": 78.5
+      },
+      "sourceSize": {
+        "w": 129,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_rifle_03.png": {
+      "frame": {
+        "x": 867.5,
+        "y": 485,
+        "w": 131.5,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 19,
+        "w": 131.5,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 161,
+        "h": 108.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_pistol_13.png": {
+      "frame": {
+        "x": 0,
+        "y": 537,
+        "w": 104.5,
+        "h": 78.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18.5,
+        "y": 19.5,
+        "w": 104.5,
+        "h": 78.5
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 115
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_rifle_18.png": {
+      "frame": {
+        "x": 104.5,
+        "y": 538,
+        "w": 129.5,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 19,
+        "w": 129.5,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 161,
+        "h": 108.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_rifle_17.png": {
+      "frame": {
+        "x": 234,
+        "y": 538.5,
+        "w": 129.5,
+        "h": 78.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19.5,
+        "y": 19,
+        "w": 129.5,
+        "h": 78.5
+      },
+      "sourceSize": {
+        "w": 161,
+        "h": 108.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_pistol_04.png": {
+      "frame": {
+        "x": 363.5,
+        "y": 538.5,
+        "w": 106,
+        "h": 79
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 20,
+        "w": 106,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 115
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_rifle_11.png": {
+      "frame": {
+        "x": 469.5,
+        "y": 538.5,
+        "w": 132,
+        "h": 79
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 19.5,
+        "w": 132,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 161,
+        "h": 108.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_rifle_09.png": {
+      "frame": {
+        "x": 601.5,
+        "y": 538.5,
+        "w": 133,
+        "h": 79.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 19.5,
+        "w": 133,
+        "h": 79.5
+      },
+      "sourceSize": {
+        "w": 161,
+        "h": 108.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_rifle_10.png": {
+      "frame": {
+        "x": 734.5,
+        "y": 540.5,
+        "w": 132.5,
+        "h": 79.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 19.5,
+        "w": 132.5,
+        "h": 79.5
+      },
+      "sourceSize": {
+        "w": 161,
+        "h": 108.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_rifle_12.png": {
+      "frame": {
+        "x": 867,
+        "y": 563,
+        "w": 131,
+        "h": 79.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 19,
+        "w": 131,
+        "h": 79.5
+      },
+      "sourceSize": {
+        "w": 161,
+        "h": 108.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_rifle_16.png": {
+      "frame": {
+        "x": 0,
+        "y": 616,
+        "w": 129,
+        "h": 79.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19.5,
+        "y": 18.5,
+        "w": 129,
+        "h": 79.5
+      },
+      "sourceSize": {
+        "w": 161,
+        "h": 108.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_pistol_12.png": {
+      "frame": {
+        "x": 129,
+        "y": 616,
+        "w": 104,
+        "h": 80.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18.5,
+        "y": 19.5,
+        "w": 104,
+        "h": 80.5
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 115
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_pistol_05.png": {
+      "frame": {
+        "x": 233,
+        "y": 617,
+        "w": 106,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 20.5,
+        "w": 106,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 115
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_rifle_04.png": {
+      "frame": {
+        "x": 339,
+        "y": 617.5,
+        "w": 132.5,
+        "h": 79.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 19,
+        "w": 132.5,
+        "h": 79.5
+      },
+      "sourceSize": {
+        "w": 161,
+        "h": 108.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_rifle_15.png": {
+      "frame": {
+        "x": 471.5,
+        "y": 617.5,
+        "w": 129,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 18.5,
+        "w": 129,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 161,
+        "h": 108.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_rifle_05.png": {
+      "frame": {
+        "x": 600.5,
+        "y": 618,
+        "w": 133,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 19.5,
+        "w": 133,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 161,
+        "h": 108.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_rifle_07.png": {
+      "frame": {
+        "x": 733.5,
+        "y": 620,
+        "w": 133.5,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 19.5,
+        "w": 133.5,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 161,
+        "h": 108.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_rifle_08.png": {
+      "frame": {
+        "x": 867,
+        "y": 642.5,
+        "w": 133,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 19.5,
+        "w": 133,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 161,
+        "h": 108.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_rifle_14.png": {
+      "frame": {
+        "x": 0,
+        "y": 695.5,
+        "w": 128.5,
+        "h": 80.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 18.5,
+        "w": 128.5,
+        "h": 80.5
+      },
+      "sourceSize": {
+        "w": 161,
+        "h": 108.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_rifle_06.png": {
+      "frame": {
+        "x": 128.5,
+        "y": 697,
+        "w": 134,
+        "h": 80.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 19.5,
+        "w": 134,
+        "h": 80.5
+      },
+      "sourceSize": {
+        "w": 161,
+        "h": 108.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_rifle_13.png": {
+      "frame": {
+        "x": 262.5,
+        "y": 697,
+        "w": 129.5,
+        "h": 80.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18.5,
+        "y": 18.5,
+        "w": 129.5,
+        "h": 80.5
+      },
+      "sourceSize": {
+        "w": 161,
+        "h": 108.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_pistol_06.png": {
+      "frame": {
+        "x": 392,
+        "y": 697.5,
+        "w": 107,
+        "h": 81.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 20.5,
+        "w": 107,
+        "h": 81.5
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 115
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_pistol_11.png": {
+      "frame": {
+        "x": 499,
+        "y": 698,
+        "w": 103.5,
+        "h": 82
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18.5,
+        "y": 20,
+        "w": 103.5,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 115
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_pistol_07.png": {
+      "frame": {
+        "x": 602.5,
+        "y": 698,
+        "w": 105.5,
+        "h": 83
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 20.5,
+        "w": 105.5,
+        "h": 83
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 115
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_pistol_10.png": {
+      "frame": {
+        "x": 708,
+        "y": 700,
+        "w": 103.5,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 20,
+        "w": 103.5,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 115
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_pistol_08.png": {
+      "frame": {
+        "x": 811.5,
+        "y": 722.5,
+        "w": 104,
+        "h": 84.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 20.5,
+        "w": 104,
+        "h": 84.5
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 115
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_reload_pistol_09.png": {
+      "frame": {
+        "x": 915.5,
+        "y": 722.5,
+        "w": 103,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 20,
+        "w": 103,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 115
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_pistol_20.png": {
+      "frame": {
+        "x": 901.5,
+        "y": 153.5,
+        "w": 105,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 20,
+        "w": 105,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 126.5,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_pistol_19.png": {
+      "frame": {
+        "x": 516,
+        "y": 229.5,
+        "w": 105,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 19.5,
+        "w": 105,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 126.5,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_pistol_18.png": {
+      "frame": {
+        "x": 621,
+        "y": 229.5,
+        "w": 104.5,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 19.5,
+        "w": 104.5,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 126.5,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_pistol_17.png": {
+      "frame": {
+        "x": 338.5,
+        "y": 0,
+        "w": 104.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 19.5,
+        "w": 104.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 126.5,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_pistol_16.png": {
+      "frame": {
+        "x": 443,
+        "y": 0,
+        "w": 104.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 19.5,
+        "w": 104.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 126.5,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_pistol_15.png": {
+      "frame": {
+        "x": 25,
+        "y": 0,
+        "w": 104.5,
+        "h": 76
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 19.5,
+        "w": 104.5,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 126.5,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_pistol_14.png": {
+      "frame": {
+        "x": 547.5,
+        "y": 0,
+        "w": 104.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 19,
+        "w": 104.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 126.5,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_pistol_13.png": {
+      "frame": {
+        "x": 652,
+        "y": 0,
+        "w": 104.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 19,
+        "w": 104.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 126.5,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_pistol_12.png": {
+      "frame": {
+        "x": 129.5,
+        "y": 0,
+        "w": 104.5,
+        "h": 76
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 19,
+        "w": 104.5,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 126.5,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_rifle_20.png": {
+      "frame": {
+        "x": 886,
+        "y": 0,
+        "w": 129.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 18.5,
+        "w": 129.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_rifle_19.png": {
+      "frame": {
+        "x": 725.5,
+        "y": 229.5,
+        "w": 129.5,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 18,
+        "w": 129.5,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_rifle_18.png": {
+      "frame": {
+        "x": 0,
+        "y": 76,
+        "w": 129,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 18,
+        "w": 129,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_rifle_17.png": {
+      "frame": {
+        "x": 129,
+        "y": 76,
+        "w": 129.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 18,
+        "w": 129.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_rifle_16.png": {
+      "frame": {
+        "x": 258.5,
+        "y": 76.5,
+        "w": 129,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 18,
+        "w": 129,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_rifle_15.png": {
+      "frame": {
+        "x": 387.5,
+        "y": 76.5,
+        "w": 128.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 18,
+        "w": 128.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_rifle_14.png": {
+      "frame": {
+        "x": 855,
+        "y": 230.5,
+        "w": 129,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 17.5,
+        "w": 129,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_rifle_13.png": {
+      "frame": {
+        "x": 516,
+        "y": 76.5,
+        "w": 128.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 17.5,
+        "w": 128.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_idle_rifle_12.png": {
+      "frame": {
+        "x": 644.5,
+        "y": 76.5,
+        "w": 128.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 17.5,
+        "w": 128.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_pistol_20.png": {
+      "frame": {
+        "x": 105,
+        "y": 305.5,
+        "w": 105,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 19.5,
+        "w": 105,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 129,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_pistol_19.png": {
+      "frame": {
+        "x": 210,
+        "y": 306,
+        "w": 105,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 19.5,
+        "w": 105,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 129,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_pistol_18.png": {
+      "frame": {
+        "x": 315,
+        "y": 306,
+        "w": 105,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18.5,
+        "y": 20,
+        "w": 105,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 129,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_pistol_17.png": {
+      "frame": {
+        "x": 781.5,
+        "y": 384.5,
+        "w": 105,
+        "h": 77.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18.5,
+        "y": 20,
+        "w": 105,
+        "h": 77.5
+      },
+      "sourceSize": {
+        "w": 129,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_pistol_16.png": {
+      "frame": {
+        "x": 233,
+        "y": 460,
+        "w": 105.5,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 20,
+        "w": 105.5,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 129,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_pistol_15.png": {
+      "frame": {
+        "x": 886.5,
+        "y": 407.5,
+        "w": 105.5,
+        "h": 77.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 20.5,
+        "w": 105.5,
+        "h": 77.5
+      },
+      "sourceSize": {
+        "w": 129,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_pistol_14.png": {
+      "frame": {
+        "x": 338.5,
+        "y": 460.5,
+        "w": 106,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 20.5,
+        "w": 106,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 129,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_pistol_13.png": {
+      "frame": {
+        "x": 444.5,
+        "y": 460.5,
+        "w": 106,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 21,
+        "w": 106,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 129,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_pistol_12.png": {
+      "frame": {
+        "x": 550.5,
+        "y": 460.5,
+        "w": 106,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 21,
+        "w": 106,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 129,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_rifle_20.png": {
+      "frame": {
+        "x": 258.5,
+        "y": 153,
+        "w": 129.5,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 18,
+        "w": 129.5,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_rifle_19.png": {
+      "frame": {
+        "x": 129.5,
+        "y": 152.5,
+        "w": 129,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 18,
+        "w": 129,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_rifle_18.png": {
+      "frame": {
+        "x": 388,
+        "y": 153,
+        "w": 129,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 17.5,
+        "w": 129,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_rifle_17.png": {
+      "frame": {
+        "x": 517,
+        "y": 153,
+        "w": 129,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 17.5,
+        "w": 129,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_rifle_16.png": {
+      "frame": {
+        "x": 646,
+        "y": 153,
+        "w": 129,
+        "h": 76.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 17.5,
+        "w": 129,
+        "h": 76.5
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_rifle_15.png": {
+      "frame": {
+        "x": 420,
+        "y": 306.5,
+        "w": 128.5,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 17,
+        "w": 128.5,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_rifle_14.png": {
+      "frame": {
+        "x": 548.5,
+        "y": 306.5,
+        "w": 128.5,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 17,
+        "w": 128.5,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_rifle_13.png": {
+      "frame": {
+        "x": 677,
+        "y": 306.5,
+        "w": 128,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 17,
+        "w": 128,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "player_move_rifle_12.png": {
+      "frame": {
+        "x": 805,
+        "y": 307.5,
+        "w": 128.5,
+        "h": 77
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15.5,
+        "y": 17,
+        "w": 128.5,
+        "h": 77
+      },
+      "sourceSize": {
+        "w": 156.5,
+        "h": 103
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "animations": {
+	"player_idle_pistol": ["player_idle_pistol_01.png","player_idle_pistol_02.png","player_idle_pistol_03.png","player_idle_pistol_04.png","player_idle_pistol_05.png","player_idle_pistol_06.png","player_idle_pistol_07.png","player_idle_pistol_08.png","player_idle_pistol_09.png","player_idle_pistol_10.png","player_idle_pistol_11.png","player_idle_pistol_12.png","player_idle_pistol_13.png","player_idle_pistol_14.png","player_idle_pistol_15.png","player_idle_pistol_16.png","player_idle_pistol_17.png","player_idle_pistol_18.png","player_idle_pistol_19.png","player_idle_pistol_20.png"],
+	"player_idle_rifle": ["player_idle_rifle_01.png","player_idle_rifle_02.png","player_idle_rifle_03.png","player_idle_rifle_04.png","player_idle_rifle_05.png","player_idle_rifle_06.png","player_idle_rifle_07.png","player_idle_rifle_08.png","player_idle_rifle_09.png","player_idle_rifle_10.png","player_idle_rifle_11.png","player_idle_rifle_12.png","player_idle_rifle_13.png","player_idle_rifle_14.png","player_idle_rifle_15.png","player_idle_rifle_16.png","player_idle_rifle_17.png","player_idle_rifle_18.png","player_idle_rifle_19.png","player_idle_rifle_20.png"],
+	"player_move_pistol": ["player_move_pistol_01.png","player_move_pistol_02.png","player_move_pistol_03.png","player_move_pistol_04.png","player_move_pistol_05.png","player_move_pistol_06.png","player_move_pistol_07.png","player_move_pistol_08.png","player_move_pistol_09.png","player_move_pistol_10.png","player_move_pistol_11.png","player_move_pistol_12.png","player_move_pistol_13.png","player_move_pistol_14.png","player_move_pistol_15.png","player_move_pistol_16.png","player_move_pistol_17.png","player_move_pistol_18.png","player_move_pistol_19.png","player_move_pistol_20.png"],
+	"player_move_rifle": ["player_move_rifle_01.png","player_move_rifle_02.png","player_move_rifle_03.png","player_move_rifle_04.png","player_move_rifle_05.png","player_move_rifle_06.png","player_move_rifle_07.png","player_move_rifle_08.png","player_move_rifle_09.png","player_move_rifle_10.png","player_move_rifle_11.png","player_move_rifle_12.png","player_move_rifle_13.png","player_move_rifle_14.png","player_move_rifle_15.png","player_move_rifle_16.png","player_move_rifle_17.png","player_move_rifle_18.png","player_move_rifle_19.png","player_move_rifle_20.png"],
+	"player_reload_pistol": ["player_reload_pistol_01.png","player_reload_pistol_02.png","player_reload_pistol_03.png","player_reload_pistol_04.png","player_reload_pistol_05.png","player_reload_pistol_06.png","player_reload_pistol_07.png","player_reload_pistol_08.png","player_reload_pistol_09.png","player_reload_pistol_10.png","player_reload_pistol_11.png","player_reload_pistol_12.png","player_reload_pistol_13.png","player_reload_pistol_14.png","player_reload_pistol_15.png"],
+	"player_reload_rifle": ["player_reload_rifle_01.png","player_reload_rifle_02.png","player_reload_rifle_03.png","player_reload_rifle_04.png","player_reload_rifle_05.png","player_reload_rifle_06.png","player_reload_rifle_07.png","player_reload_rifle_08.png","player_reload_rifle_09.png","player_reload_rifle_10.png","player_reload_rifle_11.png","player_reload_rifle_12.png","player_reload_rifle_13.png","player_reload_rifle_14.png","player_reload_rifle_15.png","player_reload_rifle_16.png","player_reload_rifle_17.png","player_reload_rifle_18.png","player_reload_rifle_19.png","player_reload_rifle_20.png"],
+	"player_shoot_pistol": ["player_shoot_pistol_01.png","player_shoot_pistol_02.png","player_shoot_pistol_03.png"],
+	"player_shoot_rifle": ["player_shoot_rifle_01.png","player_shoot_rifle_02.png","player_shoot_rifle_03.png"]
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.6",
+    "image": "spritesheet.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1019,
+      "h": 809
+    },
+    "scale": 0.5
+  }
+}

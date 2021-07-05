@@ -1,0 +1,14 @@
+{
+  "extends": "@tsconfig/svelte/tsconfig.json",
+
+  "include": ["src/**/*"],
+  "exclude": ["node_modules/*", "__sapper__/*", "public/*"],
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "experimentalDecorators": true,
+    "paths": {
+      "@shooter2D/shared": ["../../../libs/shared/src"],
+      "@shooter2D/shared/*": ["../../../libs/shared/src/*"]
+    }
+  }
+}
