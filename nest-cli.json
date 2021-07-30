@@ -1,0 +1,39 @@
+{
+  "collection": "@nestjs/schematics",
+  "sourceRoot": "apps/masterserver/src",
+  "monorepo": true,
+  "root": "apps/masterserver",
+  "compilerOptions": {
+    "webpack": true,
+    "tsConfigPath": "apps/masterserver/tsconfig.app.json"
+  },
+  "projects": {
+    "masterserver": {
+      "type": "application",
+      "root": "apps/masterserver",
+      "entryFile": "main",
+      "sourceRoot": "apps/masterserver/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/masterserver/tsconfig.app.json"
+      }
+    },
+    "gameserver": {
+      "type": "application",
+      "root": "apps/gameserver",
+      "entryFile": "main",
+      "sourceRoot": "apps/gameserver/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/gameserver/tsconfig.app.json"
+      }
+    },
+    "shared": {
+      "type": "library",
+      "root": "libs/shared",
+      "entryFile": "index",
+      "sourceRoot": "libs/shared/src",
+      "compilerOptions": {
+        "tsConfigPath": "libs/shared/tsconfig.lib.json"
+      }
+    }
+  }
+}
